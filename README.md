@@ -1,11 +1,12 @@
-# CatroZero
+# Setup steps
 
-#TODOS:
-* crate isntall scripts
-* * armbian
-* * rasbpian
-* update necessary files
-* create install instruction
-* * update README.md
-* find suitable location for image storage (maybe almost clean image with install script in rc.local)
+# Using the bash installer
+
+## 1: Install correct image onto the device
+### Raspberry Pi Zero
+### Banana Pi 
+
+## 2: Running the installer
+
+# Manual setup
 
