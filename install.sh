@@ -1,7 +1,7 @@
 #!/bin/bash
 
-delay=20
-hostname="CatroZero"
+delay=4
+hostname="CreativeCoding"
 wififile=$PWD"/wifi"
 blfile=$PWD"/bluetooth"
 mountfile="/mnt/pi_usb"
