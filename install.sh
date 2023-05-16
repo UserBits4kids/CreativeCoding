@@ -1,7 +1,7 @@
 #!/bin/bash
 
 delay=4
-hostname="CreativeCoding"
+hostname="Lynxpi"
 wififile=$PWD"/wifi"
 blfile=$PWD"/bluetooth"
 mountfile="/mnt/pi_usb"
